@@ -1,0 +1,28 @@
+{
+    "events": [
+        {
+            "date": "5/25",
+            "content": "I was honored to receive the Grace Hopper Award from the Department of Computer Science, given to one student in the major for academic achievement."
+        },
+        {
+            "date": "2/25",
+            "content": "After seeing tech giants routinely commit violations of privacy both locally and nationally, I started volunteering at Oakland Privacy as a grassroots lobbyist."
+        },
+        {
+            "date": "6/24 to present",
+            "content": "I started my internship at Keysight Technologies in Santa Rosa, California. Keysight started as a spinoff of Agilent, which itself was a spinoff of Hewlett-Packard. At Keysight, I work on the Technical Support team for our line of Network Analyzers and portable FieldFox units. I create programs for our customers and technicians to use to interface with these instruments. Some of the programs I've created include a suite of utilities for debugging common hardware failures as well as a System Verificaition utility for the FieldFox."
+        },
+        {
+            "date": "1/24 to 6/24",
+            "content": "After seeing a presentation by Prof. Todd Schmid on using deterministic pushdown automata as a tool to create music, I joined their research team. We created an open-source DAW that allows users to draw transition systems in the browser that are converted to MIDI messages. I worked on the backend using Go."
+        },
+        {
+            "date": "8/22 to 6/24",
+            "content": "I became a resident advisor in my sophomore year, serving a residence hall community of approximately 150 first-years. I facilitated conflict resolution meetings between roommates (of which there were several since it was many people's first year living with others). On top of this, I coordinated weekly events and acted as a bridge between students and resources like counseling, advising, financial aid, and tutoring."
+        },
+        {
+            "date": "8/21",
+            "content": "I became a student at Saint Mary's College of California with a declared major in Politics."
+        }
+    ]
+}
