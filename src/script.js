@@ -1,4 +1,7 @@
 
+// welcome to my state of the art JavaScript code!
+// revolutionary stuff, really
+
 function populateTimeline() {
     fetch("..//data//timeline.json")
         .then(response => {
